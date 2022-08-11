@@ -1,0 +1,2 @@
+C:\Users\erocc\Desktop\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Definitions.Arkanoid.h
+C:\Users\erocc\Desktop\Arkanoid\Source\Arkanoid\Arkanoid.h

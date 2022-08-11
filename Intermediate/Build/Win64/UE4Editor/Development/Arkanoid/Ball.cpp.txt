@@ -1,0 +1,7 @@
+C:\Users\erocc\Desktop\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Definitions.Arkanoid.h
+C:\Users\erocc\Desktop\Arkanoid\Source\Arkanoid\Ball.h
+C:\Users\erocc\Desktop\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\Ball.generated.h
+A:\UE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+A:\UE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+A:\UE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+A:\UE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
